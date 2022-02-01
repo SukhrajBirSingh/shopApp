@@ -1,6 +1,6 @@
 # shopApp
 <p>
-An online shopping app where user can add and edit their own products, and list them on home screen.
+An online shopping app where user can add and edit their own products, and list them on home screen. Tutorial app
 </p>
 
 <p float = "left" padding = 30px>
